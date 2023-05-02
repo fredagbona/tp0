@@ -1,0 +1,23 @@
+#container{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.container-image{
+    background: url('../image/avocado.jpg');
+    background-size: contain;
+    height: 300px;
+}
+.bt_rule
+{
+    border-bottom: 1px solid #000;
+}
+.bg_gray
+{
+    background-color: rgb(235, 235, 235);
+}
+.circle_txt
+{
+    border: 1px solid #000;
+    border-radius: 50px;
+    text-align: center;
+}
